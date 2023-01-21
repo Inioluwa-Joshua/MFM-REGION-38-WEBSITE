@@ -18,9 +18,12 @@ module.exports = {
         veryDarkBlue: 'hsl(233, 12%, 1%)',
         veryPaleRed: 'hsl(13, 100%, 96%)',
         veryLightGray: 'hsl(0, 0%, 98%)',
+        pureWhite: 'hsla(198, 99%, 100%, 1)',
+        lightPurple: 'hsla(301, 90%, 61%, 1)',
       },
       backgroundImage: {
         'hero-pattern': "url('/img/hero-bg.jpg')",
+        'logo': "url('/img/mfmlogoman3.png')",
         'footer-texture': "url('/img/footer-texture.png')",
       }
     },
