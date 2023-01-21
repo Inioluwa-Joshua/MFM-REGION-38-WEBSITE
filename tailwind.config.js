@@ -18,6 +18,10 @@ module.exports = {
         veryDarkBlue: 'hsl(233, 12%, 1%)',
         veryPaleRed: 'hsl(13, 100%, 96%)',
         veryLightGray: 'hsl(0, 0%, 98%)',
+      },
+      backgroundImage: {
+        'hero-pattern': "url('/img/hero-bg.jpg')",
+        'footer-texture': "url('/img/footer-texture.png')",
       }
     },
   },
